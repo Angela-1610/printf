@@ -112,5 +112,5 @@ int call_function_manager(char aux, va_list arg)
 	int cont = 0;
 
 	cont = function_manager(aux, arg);
-	return (cont);
+	return (cont);
 }
